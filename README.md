@@ -29,8 +29,16 @@ Steps
 
 Usage
 Once the project is built, you can run the game directly from your terminal.
-- Run the game.
-- Follow the on-screen prompts to enter your guesses.
+- To compile and run this code:
+        - Save the code as Mastermind.cs (or any .cs file).
+        - Open a command prompt or terminal.
+        - Navigate to the directory where you saved the file.
+        - Compile using the .NET SDK: dotnet build
+        - Run the executable: dotnet run
+        - You can also test with arguments:
+        - dotnet run -- -c 1234 -t 5 (Plays with secret code 1234 and 5 attempts)
+        - dotnet run -- -t 7 (Plays with a random code and 7 attempts)
+        - dotnet run (Plays with a random code and 10 attempts)
 
 --------------------------------------------------------------
 
