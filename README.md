@@ -21,9 +21,9 @@ Prerequisites
 - To run this game, you'll need the .NET SDK installed on your machine.
 
 Steps
-1- Clone the repository.
-2- Navigate to the project directory.
-3- Build the project.
+- Clone the repository.
+- Navigate to the project directory.
+- Build the project.
 
 --------------------------------------------------------------
 
