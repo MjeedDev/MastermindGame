@@ -1,4 +1,6 @@
 # MastermindGame
+https://github.com/MjeedDev/MastermindGame
+
 A classic console-based Mastermind game implemented in C#.
 Guess the secret code and receive feedback on well-placed and misplaced digits!
 
