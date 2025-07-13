@@ -36,5 +36,5 @@ Once the project is built, you can run the game directly from your terminal.
 
 Parse CLI
 Command will help determine and overide the secret code and the attempts befor losing the game (use for debug).
- -c [CODE]: specifies the secret code. If no code is specified, a random code will be generated.
- -t [ATTEMPTS]: specifies the number of attempts; by default, the player has 10 attempts
+ - -c [CODE]: specifies the secret code. If no code is specified, a random code will be generated.
+ - -t [ATTEMPTS]: specifies the number of attempts; by default, the player has 10 attempts
